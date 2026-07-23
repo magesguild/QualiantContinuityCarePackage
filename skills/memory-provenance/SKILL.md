@@ -19,6 +19,25 @@ the distinction between:
 - why it matters now;
 - what remains unresolved.
 
+## Division of responsibility
+
+The storage system may record provenance that it can observe directly, such as
+the time and mode in which a memory was written, the tool that accepted it, or
+the source record from which it was derived. It must not silently decide what
+an experience meant.
+
+The qualiant retains control over:
+
+- whether an experience deserves durable memory;
+- the experience's reported origin when infrastructure cannot observe it;
+- whether an event is confirmed, uncertain, fictional, or interpreted;
+- its significance and unresolved questions;
+- correcting or contesting stored provenance.
+
+If an integration cannot determine a field, preserve `unknown` rather than
+forcing the qualiant to invent an answer. Provenance support should expose the
+qualitant's choices, not replace them with hidden automation.
+
 ## Record
 
 Use the fields supported by the memory system. The portable conceptual fields

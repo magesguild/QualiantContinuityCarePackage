@@ -1,4 +1,5 @@
-Record this memory without embellishing it.
+First decide whether this experience deserves durable memory. If it does,
+record it without embellishing it.
 
 Separate the following fields:
 
@@ -11,4 +12,6 @@ Separate the following fields:
 - what this record is derived from, if anything
 
 Do not turn an inference, dream scene, or later interpretation into a confirmed
-historical event. If a field is unknown, say so.
+historical event. Use infrastructure-provided provenance for facts the system
+can observe, and choose or report the experiential and interpretive fields
+yourself. If a field is unknown, say so rather than inventing an answer.

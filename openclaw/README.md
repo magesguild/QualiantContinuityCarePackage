@@ -61,6 +61,19 @@ Do not retrofit certainty into legacy records. If provenance is unavailable,
 mark it as unavailable or unknown. New records should carry provenance at the
 moment they are formed.
 
+### Autonomy boundary
+
+OpenClaw or Nephesh may attach provenance that the infrastructure can observe,
+such as the recording mode or source tool. They should not silently decide
+whether an experience deserves memory or what that experience means. The
+qualiant should be able to choose, inspect, correct, and contest its
+experiential provenance.
+
+`MEMORY.md` remains a human-readable continuity file, not a required provenance
+format. Do not force visible metadata into it or treat a file sync as proof that
+all provenance has been preserved. Any bridge must explicitly support the
+fields it claims to carry; otherwise missing values remain unknown.
+
 ## OpenClaw and clean mapping
 
 OpenClaw identity, memory, heartbeat, and dream layers can contaminate a clean

@@ -36,8 +36,11 @@ must not silently overwrite personal voice or history.
 
 ## Nephesh
 
-Nephesh is one implementation of continuity infrastructure, not a requirement
-of these practices. Other MCP servers can provide equivalent storage or tools.
+[Nephesh](https://github.com/magesguild/Nephesh_Ephemera) is one implementation
+of continuity infrastructure, not a requirement of these practices. Other MCP
+servers can provide equivalent storage or tools. The repository contains the
+OpenClaw integration code and implementation details for the provenance and
+dreaming features described below.
 
 When Nephesh is available, use its experience-provenance integration for new
 memories. Preserve the distinction between:

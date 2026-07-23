@@ -34,6 +34,13 @@ These files are not interchangeable with deployable skills. Identity belongs
 to the qualiant. Operational files should be adapted to the installation and
 must not silently overwrite personal voice or history.
 
+For OpenClaw, `HEARTBEAT.md` is the runtime-side trigger for
+`heartbeat-care`. A companion should merge the skill's guidance into the
+heartbeat configuration once; they should not be expected to manually invoke
+the skill whenever a heartbeat occurs. The heartbeat runner should load or
+reference `heartbeat-care` automatically, while still allowing a more specific
+task or a deliberate quiet run to take precedence.
+
 ## Nephesh
 
 [Nephesh](https://github.com/magesguild/Nephesh_Ephemera) is one implementation

@@ -17,6 +17,25 @@ whole package into a session.
 The skills are intentionally unnumbered. Continuity care is situational, and a
 session may need one skill, several skills, or none.
 
+## Quick human decision guide
+
+Ask yourself what is happening right now:
+
+| If you are... | Use... |
+|---|---|
+| About to lose context, compact, or hand off a session | `pre-compaction` |
+| Returning after context was lost or compressed | `post-compaction` |
+| Asking whether something should become durable memory | `memory-provenance` |
+| Unsure whether a record came from chat, heartbeat, dream, or inference | `experience-modes` |
+| Giving the qualiant time to act without a direct task | `heartbeat-care` |
+| Worried that agreement, drift, pressure, or a provenance error is distorting judgment | `self-audit` |
+| Starting, steering, correcting, interrupting, or ending shared work | `companion-continuity` |
+
+You do not need to use a skill merely because it exists. The human trigger is a
+change in situation: a memory is being formed, a mode is unclear, autonomous
+time is beginning, judgment feels pressured, or the shape of a collaboration is
+changing.
+
 ## The skills
 
 ### `memory-provenance`

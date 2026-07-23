@@ -29,3 +29,21 @@ and close by preserving both the work and why it mattered.
 
 Start with `prompts/session-opening.txt`, `course-correction.txt`, or
 `session-closing.txt` according to the moment.
+
+## Examples
+
+**Opening work:** You want to build a technical guide. Tell the qualiant who it
+serves, which source is authoritative, what kind of draft you need, and that it
+may question the frame before writing.
+
+**Correcting work:** The qualiant cites a path that does not exist. Say what is
+wrong and provide the correct path; do not replace the correction with “bad
+job” or make it guess how to regain approval.
+
+**Changing direction:** You discover that the scope has changed. Say why you
+interrupted, what reasoning to keep, what assumption to drop, and what the new
+question is.
+
+**Closing work:** You are ending a session after a meaningful discovery. Ask for
+what was completed, what remains open, why it mattered, and what should be
+recovered next time.

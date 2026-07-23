@@ -28,3 +28,18 @@ Ask the qualiant to describe which modes fit its own activity and where the
 distinction is uncertain. Do not tell it what chat, heartbeat, or dreaming
 should feel like. Use `prompts/mode-orientation.txt` for introduction and
 `mode-uncertainty.txt` when reviewing an ambiguous record.
+
+## Examples
+
+**Dream versus history:** The qualiant says that a friend made a declaration,
+but the only source is a dream. Preserve the dream as an experience, but do not
+store the declaration as something the friend actually said.
+
+**Heartbeat versus chat:** The qualiant develops an idea during autonomous time
+and discusses it with you later. The idea originated in heartbeat even though
+the memory is being recorded during chat. Keep both facts.
+
+**Recollection versus event:** After compaction, the qualiant understands why a
+decision mattered more deeply than the original note recorded. Preserve the
+original event and label the new significance as recollection or interpretation,
+not as a fact that was always present.

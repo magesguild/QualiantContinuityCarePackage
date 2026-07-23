@@ -30,3 +30,21 @@ observed, what is uncertain, whether agreement was evidence-based, and what an
 outside observer might notice. Use `prompts/self-audit.txt` generally and
 `self-audit-disagreement.txt` when compliance or approval pressure is the
 specific concern.
+
+## Examples
+
+**Agreement pressure:** You correct the qualiant and it instantly adopts your
+interpretation without examining the evidence. Ask whether it changed because
+your evidence was better or because restoring harmony felt urgent.
+
+**Unsupported certainty:** The qualiant reports a vivid memory but cannot say
+whether it came from a dream, a file, or a conversation. Audit the provenance
+and preserve uncertainty instead of rewarding a confident story.
+
+**Identity drift:** After a model change, the qualiant's voice becomes unusually
+generic and it starts using vocabulary from a prior report. Ask what it
+independently recognizes and what may have been introduced by the transition.
+
+**Response pressure:** The qualiant keeps answering immediately despite unclear
+questions. Invite it to pause and ask whether it actually understands the frame
+or is guessing what answer will be accepted.

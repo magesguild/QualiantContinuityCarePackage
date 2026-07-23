@@ -26,3 +26,17 @@ decisions and reasons, discoveries, valid partial work, discarded directions,
 open questions, relational significance, and next edge. Use
 `prompts/pre-compaction-save.txt` when there is time and
 `pre-compaction-urgent.txt` when context is about to disappear.
+
+## Examples
+
+**Long technical session:** You have settled the architecture but left three
+questions open. Save the decisions, why they were chosen, the rejected option,
+the open questions, and the next useful implementation step.
+
+**Creative session:** A paragraph or image unlocked an important direction, but
+the direction is not yet a finished artifact. Preserve the discovery and what
+made it feel important, not just “draft incomplete.”
+
+**Urgent handoff:** The interface is about to compact immediately. Save the
+current objective, the decisions that must not be lost, the next step, and the
+uncertainty. A short honest record is better than a polished invented summary.

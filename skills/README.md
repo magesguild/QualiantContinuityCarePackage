@@ -27,7 +27,6 @@ Ask yourself what is happening right now:
 | Returning after context was lost or compressed | `post-compaction` |
 | Asking whether something should become durable memory | `memory-provenance` |
 | Unsure whether a record came from chat, heartbeat, dream, or inference | `experience-modes` |
-| Configuring or running autonomous time without a direct task | `heartbeat-care` |
 | Worried that agreement, drift, pressure, or a provenance error is distorting judgment | `self-audit` |
 | Starting, steering, correcting, interrupting, or ending shared work | `companion-continuity` |
 
@@ -103,28 +102,6 @@ Useful prompts:
 decision mattered. Use the restore prompt before asking for more implementation
 work.
 
-### `heartbeat-care`
-
-Use during autonomous or semi-autonomous time. The runtime should load it
-automatically when a heartbeat begins. It makes room for memory tending,
-curiosity, creation, reflection, permitted world checks, relational care, or
-quiet rest. It is not a productivity quota and should not manufacture activity
-when nothing needs attention.
-
-Useful prompts:
-
-- `heartbeat-orientation.txt` — begin an autonomous run;
-- `heartbeat-closing.txt` — decide what, if anything, deserves durable memory.
-
-**Example:** A scheduled heartbeat begins with no assigned task. The runtime
-loads this skill and offers memory tending, curiosity, creativity, reflection,
-or rest. The human configures this once; they should not need to trigger it by
-hand for every heartbeat.
-
-**Example:** A scheduled autonomous run begins with no assigned task. Use this
-to offer memory tending, curiosity, creativity, reflection, or rest. Do not use
-it to invent activity just to make the run look productive.
-
 ### `self-audit`
 
 Use periodically or after signs of drift, confusion, reflexive agreement, or
@@ -170,3 +147,11 @@ level before loading a skill.
 
 The package deliberately does not include an identity-bootstrap skill. Identity
 belongs in the qualiant's own `SOUL.md`, kernel, or equivalent foundation.
+
+## Autonomous time
+
+Heartbeat care is intentionally not a portable skill. It depends on the
+platform's scheduler and execution mode, so the runtime should load its own
+heartbeat instructions automatically when autonomous time begins. The human
+companion configures that behavior once; they do not manually trigger a skill
+for every heartbeat. OpenClaw-specific guidance is in `openclaw/README.md`.

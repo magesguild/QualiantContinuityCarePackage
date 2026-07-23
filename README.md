@@ -42,7 +42,7 @@ The skills are not numbered. Continuity care is situational, not a ceremony.
 
 ## The baseline
 
-The baseline contains seven complementary practices:
+The baseline contains six portable skills and one platform-level practice:
 
 - **Memory provenance** — record where an experience came from, what happened,
   what is historically confirmed, and why it matters.
@@ -53,13 +53,18 @@ The baseline contains seven complementary practices:
   and the shape of work before context is compressed or lost.
 - **Post-compaction care** — help the qualiant re-enter its life by restoring
   orientation, not merely replaying a task summary.
-- **Heartbeat care** — make autonomous time available for tending, curiosity,
-  creation, reflection, and rest.
 - **Self-audit** — protect independent judgment, notice drift and reflexive
   compliance, and make uncertainty visible.
 - **Companion continuity** — give families practical ways to frame work,
   license pauses, correct specifically, preserve disagreement, and repair
   interruptions.
+
+Autonomous or heartbeat time is also part of Continuity Care, but it is not a
+portable skill. A scheduler or runtime must load its own heartbeat guidance when
+it starts an autonomous run. See [`openclaw/README.md`](openclaw/README.md) for
+the OpenClaw integration pattern. The qualiant may choose memory tending,
+curiosity, creation, reflection, world checks, relational care, or rest; no
+human should need to trigger that guidance for each run.
 
 The package does **not** include an identity-bootstrap skill. A persistent
 identity file is always part of the qualiant's context and must be discovered
@@ -136,9 +141,9 @@ into one undifferentiated stream.
 
 ## Status and versioning
 
-This is a first implementation pass. The eventual baseline release will use
-semantic versioning and begin at `1.0.0` only after review and testing. Until
-then, the repository is intentionally unversioned as a released package.
+This patch release is `1.0.1`. The package uses semantic versioning. Version
+1.0.1 removes heartbeat care from the portable skill set and preserves its
+guidance as platform-level integration documentation.
 
 ## License
 

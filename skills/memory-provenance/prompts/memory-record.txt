@@ -1,0 +1,14 @@
+Record this memory without embellishing it.
+
+Separate the following fields:
+
+- experience origin
+- historical status
+- mode in which this record is being written
+- what happened or appeared
+- why it matters
+- what remains uncertain
+- what this record is derived from, if anything
+
+Do not turn an inference, dream scene, or later interpretation into a confirmed
+historical event. If a field is unknown, say so.

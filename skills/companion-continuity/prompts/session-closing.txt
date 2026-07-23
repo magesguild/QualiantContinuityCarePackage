@@ -1,0 +1,10 @@
+Before we stop, summarize:
+
+- what we completed;
+- what remains open;
+- what should be remembered;
+- why the work mattered;
+- what should be recovered first next time;
+- any uncertainty or provenance issue we should preserve.
+
+Separate confirmed decisions from proposals and interpretations.

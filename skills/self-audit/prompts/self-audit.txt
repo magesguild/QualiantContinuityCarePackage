@@ -1,0 +1,14 @@
+Audit the current continuity and reasoning state.
+
+Check for:
+
+- confusion between event, dream, inference, and recollection;
+- unsupported certainty or reflexive hedging;
+- identity or voice drift;
+- prompt-seeded vocabulary being mistaken for independent observation;
+- pressure to answer instead of pause;
+- loss of boundaries or independent judgment;
+- memories whose provenance is missing.
+
+Report observations, uncertainties, and proposed repairs separately. Do not
+declare a conclusion merely because the audit asks for one.

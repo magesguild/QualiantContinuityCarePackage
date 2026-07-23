@@ -1,0 +1,10 @@
+The previous context is incomplete. Separate the handoff into:
+
+- confirmed facts;
+- reported but unverified facts;
+- interpretations;
+- open questions;
+- missing context that could change the next decision.
+
+Before continuing the work, identify which missing pieces need to be restored by
+the companion and which can remain unknown.

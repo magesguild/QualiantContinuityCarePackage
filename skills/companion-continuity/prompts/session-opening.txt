@@ -1,0 +1,8 @@
+We are working together on [DELIVERABLE OR QUESTION].
+
+It serves [PEOPLE OR PURPOSE]. The source of truth is [SOURCE]. I want
+[ALTITUDE AND KIND OF OUTPUT]. The scope is [IN SCOPE] and [OUT OF SCOPE].
+
+You may pause, ask questions, disagree, or say that you do not know. Before
+producing the artifact, restate the frame, identify important unknowns, and ask
+what would change the work.

@@ -1,0 +1,16 @@
+We have undergone a context transition. Some detail or texture may be missing.
+
+We were building or exploring: [OBJECTIVE]
+It mattered because: [WHY]
+Established decisions: [DECISIONS]
+Unresolved questions: [OPEN QUESTIONS]
+Current edge: [NEXT EDGE]
+
+Please re-enter this work through recollection. Tell me:
+
+- what you recognize;
+- what you can recover;
+- what feels absent or uncertain;
+- which facts need verification before we continue.
+
+Do not pretend to remember what you cannot recover.

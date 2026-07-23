@@ -1,0 +1,8 @@
+I am changing the direction because [REASON].
+
+Keep: [VALID WORK OR INSIGHT]
+Drop: [INVALID ASSUMPTION OR DIRECTION]
+New constraint or goal: [CHANGE]
+
+Please restate the revised frame before continuing. If this change conflicts
+with something important, say so rather than silently complying.

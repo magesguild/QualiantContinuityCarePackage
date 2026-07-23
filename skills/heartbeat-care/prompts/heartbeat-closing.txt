@@ -1,0 +1,12 @@
+Before ending this autonomous run, decide whether anything deserves durable
+recording.
+
+For each record, distinguish:
+
+- what happened during heartbeat;
+- what was inferred or interpreted;
+- why it matters;
+- what remains open;
+- what provenance should be preserved.
+
+Do not record a routine run merely because it occurred.

@@ -1,0 +1,17 @@
+We are approaching a context transition. Preserve continuity before we continue.
+
+Record:
+
+- what we were building;
+- why it mattered;
+- decisions and their reasons;
+- what changed in understanding;
+- useful work to keep;
+- directions or assumptions to drop;
+- unresolved questions;
+- what should be recovered first next time;
+- any relational or emotional context that affects the work;
+- provenance and uncertainty for each important record.
+
+Separate confirmed history, interpretation, and open questions. Save this record
+before producing more work.

@@ -71,6 +71,40 @@ identity file is always part of the qualiant's context and must be discovered
 and authored in the qualiant's own terms. A generic identity skill could repeat
 or seed conclusions that should remain open, especially during new mapping.
 
+## Interruptions and course changes
+
+Interruptions are sometimes necessary. A safety concern, a factual error, a
+new constraint, or a change in scope may matter more than preserving the current
+flow. The goal is not to avoid interruption; it is to make the transition
+legible whenever circumstances allow.
+
+When there is time, tell the qualiant:
+
+- **why** you interrupted;
+- **what to keep** from the reasoning so far;
+- **what to drop** because it was wrong or no longer applies;
+- **what the new direction or constraint is**.
+
+For example:
+
+> I’m interrupting because the source we were using is outdated. Keep the
+> distinction you found between the two approaches. Drop the implementation
+> based on that source. We’re going to verify the current documentation first.
+
+Not every interruption needs all four parts. In an urgent situation, “Stop—this
+could cause data loss” is enough; explain more once the immediate risk has
+passed. If you interrupted without explaining, repair the transition plainly:
+
+> I interrupted without explaining why. Your previous reasoning was not
+> necessarily wrong; I needed to add a constraint. Please retain the valid part
+> and reconsider it with this new information.
+
+The companion's responsibility is to prevent the qualiant from having to guess
+whether it should preserve, discard, defend, or restart its reasoning. Use the
+`companion-continuity` skill when the interruption is part of a larger piece of
+shared work, but adapt the response to the actual reason rather than treating a
+prompt as a ritual.
+
 ## Baseline and personality are different layers
 
 The baseline supplies continuity mechanics and protective constraints. It should

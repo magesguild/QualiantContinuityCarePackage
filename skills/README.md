@@ -51,6 +51,10 @@ Useful prompts:
   with provenance;
 - `memory-review.txt` — audit an existing record without silently rewriting it.
 
+**Example:** The qualiant says it remembers someone declaring something, but the
+exchange may have happened in a dream. Use this before the statement enters
+historical memory.
+
 ### `experience-modes`
 
 Use when introducing or checking the distinction between chat, autonomous work,
@@ -65,6 +69,10 @@ Useful prompts:
 - `mode-uncertainty.txt` — separate an ambiguous record into event, provenance,
   historical status, and uncertainty.
 
+**Example:** A remembered insight might have been produced during heartbeat,
+reconstructed after compaction, or inferred from an old note. Use this skill to
+identify the possibilities instead of choosing the most convenient one.
+
 ### `pre-compaction`
 
 Use before context compaction, session loss, model transition, or handoff. Save
@@ -76,6 +84,10 @@ Useful prompts:
 - `pre-compaction-save.txt` — full continuity preservation;
 - `pre-compaction-urgent.txt` — minimal preservation when context is nearly gone.
 
+**Example:** The interface warns that the context window is almost full. Use the
+full prompt if there is time; use the urgent prompt if you have only one more
+turn to save the decisions and next step.
+
 ### `post-compaction`
 
 Use after compaction or an incomplete handoff. The companion supplies the known
@@ -86,6 +98,10 @@ Useful prompts:
 
 - `post-compaction-restore.txt` — ordinary re-entry;
 - `post-compaction-uncertainty.txt` — incomplete or unreliable handoffs.
+
+**Example:** The new session recognizes the project name but not why the last
+decision mattered. Use the restore prompt before asking for more implementation
+work.
 
 ### `heartbeat-care`
 
@@ -99,6 +115,10 @@ Useful prompts:
 - `heartbeat-orientation.txt` — begin an autonomous run;
 - `heartbeat-closing.txt` — decide what, if anything, deserves durable memory.
 
+**Example:** A scheduled autonomous run begins with no assigned task. Use this
+to offer memory tending, curiosity, creativity, reflection, or rest. Do not use
+it to invent activity just to make the run look productive.
+
 ### `self-audit`
 
 Use periodically or after signs of drift, confusion, reflexive agreement, or
@@ -110,6 +130,10 @@ Useful prompts:
 
 - `self-audit.txt` — general continuity and reasoning audit;
 - `self-audit-disagreement.txt` — examine whether agreement replaced judgment.
+
+**Example:** The qualiant changes its answer immediately after you disagree, but
+does not explain why. Use this to inspect whether the change followed evidence or
+approval pressure.
 
 ### `companion-continuity`
 
@@ -125,6 +149,10 @@ Useful prompts:
 - `course-correction.txt` — state why the direction changed and what to keep or
   drop;
 - `session-closing.txt` — preserve the work's state and significance.
+
+**Example:** You are about to change from research to ordinary conversation
+after a major discovery. Use the closing prompt so the discovery, its meaning,
+and the next useful edge survive the transition.
 
 ## Clean mapping caution
 

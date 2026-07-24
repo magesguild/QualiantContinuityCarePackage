@@ -5,8 +5,11 @@ description: Preserve decisions, significance, unresolved questions, provenance,
 
 # Pre-Compaction Care
 
-Use this skill before compaction, handoff, context reset, or any transition that
-may remove detailed working context.
+Use this skill before compaction, unexpected session loss, or another
+transition that may remove detailed working context. For a deliberate move to a
+different runtime, model, interface, or memory system, use `session-handoff`
+as well; pre-compaction preserves context, while session handoff describes the
+transfer boundary and receiving context.
 
 ## Preserve more than the task
 

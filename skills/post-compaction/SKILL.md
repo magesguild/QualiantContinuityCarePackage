@@ -5,8 +5,11 @@ description: Help a qualiant re-enter a compacted session by restoring what happ
 
 # Post-Compaction Care
 
-Use this skill after compaction, session restoration, model transition, or an
-incomplete handoff.
+Use this skill after compaction, session restoration, or an incomplete
+transition. For a deliberate move between different runtimes, models,
+interfaces, or memory systems, use `session-handoff` for the transfer packet
+and this skill only when the receiving context also needs recovery from lost or
+compressed detail.
 
 ## Re-entry sequence
 

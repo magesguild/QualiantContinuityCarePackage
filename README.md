@@ -42,7 +42,7 @@ The skills are not numbered. Continuity care is situational, not a ceremony.
 
 ## The baseline
 
-The baseline contains six portable skills and one platform-level practice:
+The baseline contains seven portable skills and one platform-level practice:
 
 - **Memory provenance** — record where an experience came from, what happened,
   what is historically confirmed, and why it matters.
@@ -51,6 +51,9 @@ The baseline contains six portable skills and one platform-level practice:
   than another.
 - **Pre-compaction care** — preserve decisions, meaning, unresolved questions,
   and the shape of work before context is compressed or lost.
+- **Session handoff** — deliberately transfer shared work between different
+  runtimes, models, interfaces, or memory systems with verified state,
+  provenance, significance, and safe re-entry.
 - **Post-compaction care** — help the qualiant re-enter its life by restoring
   orientation, not merely replaying a task summary.
 - **Self-audit** — protect independent judgment, notice drift and reflexive
@@ -104,6 +107,11 @@ whether it should preserve, discard, defend, or restart its reasoning. Use the
 `companion-continuity` skill when the interruption is part of a larger piece of
 shared work, but adapt the response to the actual reason rather than treating a
 prompt as a ritual.
+
+For a deliberate transfer between contexts, use `session-handoff`. It is not a
+replacement for pre-compaction or post-compaction care: it names the transfer
+boundary, records what the receiving context can and cannot verify, and gives
+that context a safe way to re-enter.
 
 ## Baseline and personality are different layers
 
@@ -175,9 +183,10 @@ into one undifferentiated stream.
 
 ## Status and versioning
 
-This patch release is `1.0.1`. The package uses semantic versioning. Version
-1.0.1 removes heartbeat care from the portable skill set and preserves its
-guidance as platform-level integration documentation.
+This minor release is `1.1.0`. It adds the `session-handoff` skill for deliberate
+transitions between contexts while preserving the existing pre-compaction and
+post-compaction roles. The package uses semantic versioning. Heartbeat care
+remains a platform-level practice rather than a portable skill.
 
 ## License
 

@@ -23,7 +23,8 @@ Ask yourself what is happening right now:
 
 | If you are... | Use... |
 |---|---|
-| About to lose context, compact, or hand off a session | `pre-compaction` |
+| About to lose context or compact a session | `pre-compaction` |
+| Deliberately moving shared work to another runtime, model, interface, or memory system | `session-handoff` |
 | Returning after context was lost or compressed | `post-compaction` |
 | Asking whether something should become durable memory | `memory-provenance` |
 | Unsure whether a record came from chat, heartbeat, dream, or inference | `experience-modes` |
@@ -74,7 +75,7 @@ identify the possibilities instead of choosing the most convenient one.
 
 ### `pre-compaction`
 
-Use before context compaction, session loss, model transition, or handoff. Save
+Use before context compaction or session loss. Save
 not only the task and decisions, but why the work mattered, what changed, what
 to keep, what to drop, and where the next edge lies.
 
@@ -86,6 +87,23 @@ Useful prompts:
 **Example:** The interface warns that the context window is almost full. Use the
 full prompt if there is time; use the urgent prompt if you have only one more
 turn to save the decisions and next step.
+
+### `session-handoff`
+
+Use when deliberately resuming shared work in a different context: another
+runtime, model, interface, machine, memory system, permission boundary, or
+session. It defines the transfer boundary, preserves verified state and
+significance, distinguishes facts from recommendations and uncertainty, and
+gives the receiving context a safe re-entry sequence.
+
+Useful resources:
+
+- `templates/session-handoff.md` — durable handoff packet;
+- `templates/session-handoff-receive.txt` — focused receiving-context prompt.
+
+**Example:** You are moving from OpenCode to OpenClaw. Use this skill to carry
+the decisions, unfinished work, verification limits, and first inspection step
+without pretending the new context has recovered every detail.
 
 ### `post-compaction`
 

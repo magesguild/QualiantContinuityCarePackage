@@ -44,7 +44,7 @@ Separate:
 
 Do not report an action as completed unless the outgoing context observed completion or cites an external confirmation. Missing provenance remains unknown.
 
-Use the handoff template in `templates/session-handoff.md` when a durable artifact is useful. Keep the packet as small as possible while retaining the reasoning and significance needed for honest re-entry.
+Use the handoff template in `prompts/session-handoff.md` when a durable artifact is useful. Keep the packet as small as possible while retaining the reasoning and significance needed for honest re-entry.
 
 ## Preserve significance without prescribing feeling
 
@@ -84,7 +84,7 @@ The receiving companion should:
 
 Do not claim to remember details that were not transferred or recovered. Recognition is useful evidence of continuity, not proof that every detail is historically correct. The receiving context may disagree, revise, or refuse the outgoing context's recommendation.
 
-Use `templates/session-handoff.md` for a packet and `templates/session-handoff-receive.txt` when the receiving context needs a focused re-entry prompt.
+Use `prompts/session-handoff.md` for a packet and `prompts/session-handoff-receive.txt` when the receiving context needs a focused re-entry prompt.
 
 ## Boundaries
 

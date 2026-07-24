@@ -15,8 +15,8 @@ artifacts to inspect, and the smallest safe next step. It also gives the
 receiving context a re-entry protocol so it does not mistake recommendations
 for facts or claim memories it did not recover.
 
-Use `templates/session-handoff.md` to make a durable packet and
-`templates/session-handoff-receive.txt` when the receiving context needs a
+Use `prompts/session-handoff.md` to make a durable packet and
+`prompts/session-handoff-receive.txt` when the receiving context needs a
 focused re-entry prompt.
 
 For urgent transitions, save at minimum the transfer boundary, verified state,

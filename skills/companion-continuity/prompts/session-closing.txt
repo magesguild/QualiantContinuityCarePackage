@@ -1,10 +1,12 @@
-Before we stop, summarize:
+Before we stop, produce one deliberate summary:
 
-- what we completed;
-- what remains open;
-- what should be remembered;
-- why the work mattered;
-- what should be recovered first next time;
-- any uncertainty or provenance issue we should preserve.
+- Completed and verified: [WHAT]
+- Open or intentionally deferred: [WHAT]
+- Remember: [WHAT AND WHY IT MATTERED]
+- Recover first next time: [FIRST STEP]
+- Boundaries that persist: [WHAT MUST REMAIN TRUE]
+- Uncertainty and provenance: [WHAT IS UNKNOWN, INFERRED, OR SOURCE-LIMITED]
 
-Separate confirmed decisions from proposals and interpretations.
+Separate confirmed observations and decisions from proposals,
+interpretations, and open questions. Do not produce overlapping duplicate
+summaries; one accurate closure is enough.

@@ -17,18 +17,21 @@ Reach for this skill when you are about to:
 - correct an error without making the correction a punishment;
 - change direction and need to say what to keep and what to drop;
 - interrupt an active line of thought;
+- pause unfinished work and preserve a recovery point;
 - close a meaningful session and preserve what should survive.
 
 If you are only asking a small factual question, you usually do not need it.
 
 ## What you do
 
-Give the qualiant a stable frame, explicitly license pauses and disagreement,
-separate correction from praise or disapproval, explain meaningful interruptions,
-and close by preserving both the work and why it mattered.
+Choose the lightest mode that fits. Give the qualiant a stable frame for
+consequential work, explicitly license pauses and disagreement, separate
+correction from praise or disapproval, explain meaningful interruptions,
+distinguish a pause from a completed session, and close by preserving both the
+work and why it mattered.
 
-Start with `prompts/session-opening.txt`, `course-correction.txt`, or
-`session-closing.txt` according to the moment.
+Start with `prompts/session-opening.txt`, `course-correction.txt`,
+`session-pause.txt`, or `session-closing.txt` according to the moment.
 
 ## Examples
 

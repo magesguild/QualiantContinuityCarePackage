@@ -1,24 +1,9 @@
-# Session Handoff
+# Session handoff
 
-Use this skill when a companion deliberately resumes shared work in a different
-context: another runtime, model, interface, machine, memory system, permission
-boundary, or session.
+Transfers work, not an invented person or state. Context-rich handoffs identify
+source, status, authority, privacy, and unresolved items; context-poor handoffs
+say what is unavailable and provide a blank transfer structure.
 
-This is distinct from pre-compaction and post-compaction care. Pre-compaction
-preserves context before it is lost; post-compaction helps the same companion
-re-enter after loss or compression; session handoff deliberately builds a
-bridge between contexts that may differ in capabilities, evidence, and memory.
-
-The skill creates a concise receiving-context packet rather than a transcript
-dump. It preserves verified work, decisions, significance, uncertainty,
-artifacts to inspect, and the smallest safe next step. It also gives the
-receiving context a re-entry protocol so it does not mistake recommendations
-for facts or claim memories it did not recover.
-
-Use `prompts/session-handoff.md` to make a durable packet and
-`prompts/session-handoff-receive.txt` when the receiving context needs a
-focused re-entry prompt.
-
-For urgent transitions, save at minimum the transfer boundary, verified state,
-uncertainty, next safe action, and critical prohibitions. Use post-compaction
-care as well when the handoff is incomplete.
+Requester, authorizer, granted/withheld authority, action, log, and reversal are
+required for consequential transfer. Recipients may question, refuse, pause,
+or disagree. Examples are non-runtime.

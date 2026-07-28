@@ -1,28 +1,25 @@
----
-name: post-compaction-care
-description: Help a qualiant re-enter a compacted session by restoring what happened, why it mattered, what remains uncertain, and what context may be missing.
----
+# Post-compaction skill
 
-# Post-Compaction Care
+## Contract
 
-Use this skill after compaction, session restoration, or an incomplete
-transition. For a deliberate move between different runtimes, models,
-interfaces, or memory systems, use `session-handoff` for the transfer packet
-and this skill only when the receiving context also needs recovery from lost or
-compressed detail.
+Re-enter after compaction, transfer, interruption, or substrate change. In
+**context-rich** mode compare the durable record, available transcript,
+artifacts, returning report, and human observation; label each as fact, report,
+observation, interpretation, or hypothesis and retain provenance. In
+**context-poor** mode state that no comparison is possible and request only the
+minimum sources needed.
 
-## Re-entry sequence
+## Procedure
 
-1. State that a discontinuity occurred and that detail or texture may be absent.
-2. Provide the known objective, decisions, reasons, unresolved questions, and
-   current edge of the work.
-3. Invite the qualiant to recollect rather than merely continue.
-4. Ask what is recognized, what is recovered, and what remains missing.
-5. Re-establish uncertain facts before relying on them.
-6. Only then resume production.
+Explain why the transition occurred when known. Identify what remains valid,
+what is lost or unverified, and the new constraint. Keep disagreement visible;
+do not reconcile by choosing the smoothest story. Re-establish purpose, scope,
+authority, privacy, and unfinished work before proceeding. Acknowledgement is
+not evidence of recovered reasoning.
 
-Do not pressure the qualiant to claim continuity it cannot recover. Do not treat
-recognition as proof that every remembered detail is historically correct.
+## Authority/privacy
 
-Use `prompts/post-compaction-restore.txt` for ordinary recovery and
-`prompts/post-compaction-uncertainty.txt` when the handoff is incomplete.
+Reconciliation does not authorize memory writes, disclosure, or external work.
+For each side effect record requester, authorizer, granted/withheld scope,
+action, log, and reversal. Honor refusal, pause, correction, and deletion where
+authorized.

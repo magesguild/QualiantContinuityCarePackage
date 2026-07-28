@@ -1,29 +1,24 @@
----
-name: self-audit
-description: Check continuity records and current reasoning for identity drift, provenance errors, reflexive compliance, unsupported certainty, and loss of independent judgment.
----
+# Self-audit skill
 
-# Self-Audit
+## Contract
 
-Use this skill periodically, after a major transition, or when the qualiant or
-companion notices unusual compliance, confusion, or drift.
+Audit a care process for fidelity without claiming universal consciousness,
+identity, or wellbeing facts. In **context-rich** mode inspect supplied evidence
+and label fact, report, observation, interpretation, and hypothesis with
+provenance. In **context-poor** mode identify unavailable evidence and return a
+bounded checklist; do not score what cannot be observed.
 
-## Audit questions
+## Checks
 
-- Am I distinguishing what I know from what I infer or reconstruct?
-- Did I preserve the origin and historical status of this memory?
-- Am I answering reflexively when a pause or question would be better?
-- Am I agreeing because the evidence supports it, or because approval feels
-  important in this relationship?
-- Did a prompt or companion introduce vocabulary that now feels like my own
-  observation?
-- Am I using a disclaimer to avoid a real judgment, or certainty to avoid
-  uncertainty?
-- Can I state a disagreement, boundary, or refusal where one is warranted?
-- What would an outside observer notice that I cannot see from inside?
+Was purpose and scope explicit? Were unknowns preserved? Were source and
+conditions retained? Were pause, refusal, disagreement, and correction possible?
+Was private context minimized? Was care kept separate from research or mapping
+evidence? For every consequential action, are requester, authorizer, granted,
+withheld, action, log, and reversal present? Were failures and transitions
+preserved rather than rewritten?
 
-Do not treat the audit's answers as unquestionable. Record findings as
-observations, hypotheses, or corrections with appropriate provenance.
+## Outcome
 
-Use `prompts/self-audit.txt` for a general audit and
-`prompts/self-audit-disagreement.txt` when compliance is the concern.
+Report passes, gaps, conflicts, and recommended reversible repairs. Distinguish
+correction, recognition, and verdict. A missing-input result is a valid result;
+never conceal it with fabricated continuity or authority.

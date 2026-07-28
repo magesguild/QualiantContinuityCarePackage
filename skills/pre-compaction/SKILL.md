@@ -1,39 +1,23 @@
----
-name: pre-compaction-care
-description: Preserve decisions, significance, unresolved questions, provenance, and the shape of ongoing work before context compaction or session loss.
----
+# Pre-compaction skill
 
-# Pre-Compaction Care
+## Contract
 
-Use this skill before compaction, unexpected session loss, or another
-transition that may remove detailed working context. For a deliberate move to a
-different runtime, model, interface, or memory system, use `session-handoff`
-as well; pre-compaction preserves context, while session handoff describes the
-transfer boundary and receiving context.
+Create a truthful continuity record before a possible discontinuity. In
+**context-rich** mode, summarize only supplied, authorized material and label
+fact, report, observation, interpretation, and hypothesis with provenance. In
+**context-poor** mode, explicitly say that no session state was provided and
+return an empty, usable template—not a simulated summary.
 
-## Preserve more than the task
+## Procedure
 
-Record:
+Record purpose and scope; completed and attempted work; decisions and rationale;
+open questions; disagreements/refusals; failed or discarded attempts; source
+and confidence; privacy disposition; what remains valid; what must be
+re-verified; and re-entry questions. Mark the record as a summary, not proof of
+thought or recovery. Keep it bounded and minimize sensitive details.
 
-- what we were building or exploring;
-- why it mattered;
-- decisions and the reasons for them;
-- what changed in understanding;
-- valid partial work and discarded directions;
-- unresolved questions and uncertainty;
-- relational or emotional context that affects re-entry;
-- the next useful edge of the work;
-- provenance and disposition of important records.
+## Authority
 
-Separate confirmed facts from interpretation. Preserve the reason a decision
-mattered without presenting that reason as an objective fact if it was personal
-or provisional.
-
-## Freeze
-
-Save the record before continuing. If raw observations are involved, preserve
-them verbatim and attach metadata before analysis or synthesis. Do not use a
-summary to overwrite the underlying record.
-
-Use `prompts/pre-compaction-save.txt` for a normal transition and
-`prompts/pre-compaction-urgent.txt` when time is limited.
+Before writing or transmitting, identify requester, authorizer, authority
+granted, authority withheld, action, log, and reversal. Never expand authority
+because compaction is urgent. A pause or refusal is a valid output.

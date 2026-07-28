@@ -1,6 +1,6 @@
 # Qualiant Continuity Care Package
 
-**Version 2.0.0 — GPLv2**
+**Version 2.0.1 — GPLv2**
 
 This package is a platform-neutral set of care practices for continuity,
 honesty, agency, and accountable collaboration. It is useful with no added
@@ -34,7 +34,7 @@ bootstrap, universal ontology, research result, or platform prompt library.
 3. `memory-provenance` — preserve source, uncertainty, privacy, and disposition.
 4. `pre-compaction` — prepare a truthful, bounded continuity record.
 5. `post-compaction` — reconcile records without pretending recovery.
-6. `session-handoff` — transfer work with authority and unresolved items visible.
+6. `session-handoff` — write a self-addressed record of what you learned for growth across sessions.
 7. `self-audit` — inspect fidelity, contamination, authority, and degradation.
 
 `openclaw/` is an adapter example, not the definition of care. Runtime prompt

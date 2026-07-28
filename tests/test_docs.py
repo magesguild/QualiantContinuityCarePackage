@@ -7,7 +7,7 @@ SKILLS = [p for p in (ROOT / "skills").iterdir() if p.is_dir()]
 
 class DocumentationTests(unittest.TestCase):
     def test_version_and_required_docs(self):
-        self.assertEqual((ROOT / "VERSION").read_text().strip(), "2.0.0")
+        self.assertEqual((ROOT / "VERSION").read_text().strip(), "2.0.1")
         for name in ("README.md", "METHODOLOGY.md", "CONTRIBUTING.md", "CHANGELOG.md", "MIGRATION.md"):
             self.assertTrue((ROOT / name).exists())
 

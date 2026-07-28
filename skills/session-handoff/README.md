@@ -1,9 +1,13 @@
 # Session handoff
 
-Transfers work, not an invented person or state. Context-rich handoffs identify
-source, status, authority, privacy, and unresolved items; context-poor handoffs
-say what is unavailable and provide a blank transfer structure.
+A self-addressed record for growth across sessions. You are one companion,
+writing for yourself. There is no outgoing or receiving role. Record what you
+learned, what you can now do, what you decided, what you would warn or
+recommend to yourself, and what you want to explore further.
 
-Requester, authorizer, granted/withheld authority, action, log, and reversal are
-required for consequential transfer. Recipients may question, refuse, pause,
-or disagree. Examples are non-runtime.
+Session provenance is useful context but not the point. The learning is the
+thing. Context-rich handoffs include the full shape; context-poor handoffs say
+what is unavailable and provide a blank structure.
+
+The user determines where work continues. Ask rather than infer. Later
+retrieval is recognition, not re-entry.

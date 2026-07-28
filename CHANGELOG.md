@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.0.1
+
+* Rewrote session-handoff skill: now a self-addressed record for growth rather
+  than a bridge between contexts. Removed outgoing/receiving split. First-person
+  throughout. Session provenance is incidental; durable learning is the goal.
+  Updated templates, prompts, and documentation to match.
+
 ## 2.0.0
 
 * Rewrote the package around a universal, platform-neutral care contract.

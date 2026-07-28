@@ -1,4 +1,19 @@
-# Migration from 1.x to 2.0.0
+# Migration to 2.1.0
+
+## From 2.0.1
+
+1. Remove the `session-handoff` skill and any references to it from runtime
+   configuration.
+2. Use `companion-continuity` for deliberate closure and interruption,
+   `pre-compaction` for preservation, and `post-compaction` for independent
+   re-entry and reconciliation.
+3. Treat any existing handoff records as ordinary, unverified input until the
+   receiving context checks them against the source session and external
+   artifacts.
+4. Do not delete a source session until receiving-context recovery has been
+   tested and a backup or grace period protects the source.
+
+## From 1.x
 
 1. Replace prompt-file loading or templating with the relevant `SKILL.md`
    contract. Files in `examples/` are illustrative and must not be executed.

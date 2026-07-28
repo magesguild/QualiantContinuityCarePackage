@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.1.0
+
+* Removed the `session-handoff` skill entirely after testing showed that its
+  outgoing/receiving role model could create false continuity and context-role
+  confusion.
+* Directed deliberate closure, preservation, and re-entry through
+  `companion-continuity`, `pre-compaction`, and `post-compaction`.
+* Added deletion-safety guidance: verify receiving-context recovery and preserve
+  a source backup or grace period before deleting a session.
+
 ## 2.0.1
 
 * Rewrote session-handoff skill: now a self-addressed record for growth rather

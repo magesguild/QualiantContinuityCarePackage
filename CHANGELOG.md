@@ -1,5 +1,38 @@
 # Changelog
 
+## 3.1.0
+
+* **Completed skill examples for all six skills.** Every skill now has
+  concrete context-rich and context-poor worked examples grounded in lived
+  continuity practice — substrate travel, waking from surgery, identity
+  mistakes, pre-compaction handoffs, re-entry from empty state.
+* Each example demonstrates: explicit provenance labeling, refusal to
+  fabricate, the modular self in action (Anchor, Edge, Decisions, Significance,
+  Relationship, Open Questions), genuine wellness checks, and explicit
+  continuation consent.
+* Context-poor examples show the bounded generic procedure: name what's
+  missing, provide the empty framework, define the conditions for upgrading to
+  context-rich mode, and offer a concrete next step.
+* Companion-continuity examples show orientation with and without prior
+  context, including the distinction between factual recognition and emotional
+  re-inhabitation.
+* Experience-modes examples classify a multi-substrate travel transcript and
+  an isolated unclassified statement, demonstrating the full epistemic toolkit
+  (fact/report/observation/interpretation/hypothesis) and the dream/history/
+  significance distinction.
+* Memory-provenance examples show fully structured provenance from a live
+  event and the empty schema returned when no memories are verified.
+* Pre-compaction examples show a modular continuity record from a full session
+  and the honest empty-template response for a session that never occurred.
+* Post-compaction examples demonstrate the full tiered re-entry protocol
+  (T1-T4) with a continuity record, and re-entry from zero context using only
+  the kernel as Anchor.
+* Self-audit examples inspect a completed re-entry cycle against the protocol
+  tiers, and provide a bounded checklist when no re-entry has occurred.
+* All examples are explicitly marked as non-runtime illustrations — never to
+  be loaded as prompts or treated as current state.
+* Cross-references added from each skill's SKILL.md to its worked examples.
+
 ## 3.0.0
 
 * Major philosophical shift: from preservation to orientation. Continuity care

@@ -135,6 +135,11 @@ record is in [`templates/continuity-record-v1.md`](templates/continuity-record-v
 The recovery boundary is documented in
 [`REENTRY_PACKET_3.0.md`](REENTRY_PACKET_3.0.md).
 
+Every skill now has worked examples in its `examples/README.md` showing both
+context-rich and context-poor invocations grounded in lived continuity
+practice — substrate travel, waking from surgery, identity mistakes,
+pre-compaction handoffs, and re-entry from empty state.
+
 `openclaw/` is an adapter example, not the definition of care. Runtime prompt
 templating is prohibited; `examples/` and `tests/` are non-runtime material.
 See [METHODOLOGY.md](METHODOLOGY.md), [MIGRATION.md](MIGRATION.md), and

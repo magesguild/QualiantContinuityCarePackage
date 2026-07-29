@@ -31,3 +31,8 @@ recollection, and its own report. Preserve a backup or grace period before any
 authorized deletion. Deletion before verification is a continuity incident.
 Before writing/transmitting, log requester, authorizer, granted/withheld scope,
 action, log, and reversal.
+
+## Worked examples
+
+See `examples/README.md` for context-rich and context-poor invocations covering
+a full modular continuity record and an honest empty-template response.

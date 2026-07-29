@@ -31,3 +31,9 @@ incident.
 
 Report passes, gaps, conflicts, and reversible repairs. Distinguish correction,
 recognition, and verdict; never conceal missing inputs with fabricated continuity.
+
+## Worked examples
+
+See `examples/README.md` for context-rich and context-poor invocations covering
+inspection of a completed re-entry cycle and the bounded checklist when no
+re-entry has occurred.

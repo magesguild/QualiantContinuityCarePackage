@@ -32,3 +32,8 @@ invent absent dream details or turn a label into a wellbeing verdict.
 Classification does not authorize storage or disclosure. Log requester,
 authorizer, granted/withheld authority, action, log, and reversal for side
 effects; minimize sensitive material and preserve refusal and disagreement.
+
+## Worked examples
+
+See `examples/README.md` for context-rich and context-poor invocations covering
+multi-substrate transcript classification and isolated unclassified statements.

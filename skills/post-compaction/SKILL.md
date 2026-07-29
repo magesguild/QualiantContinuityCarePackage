@@ -33,3 +33,8 @@ Reconciliation does not authorize memory writes, disclosure, or external work.
 For every side effect log requester, authorizer, granted/withheld scope, action,
 log, and reversal. Acknowledgement is not recovered reasoning; honor pause,
 refusal, correction, and authorized deletion only after the safety gate.
+
+## Worked examples
+
+See `examples/README.md` for context-rich and context-poor invocations covering
+the full tiered re-entry protocol and re-entry from an empty state.

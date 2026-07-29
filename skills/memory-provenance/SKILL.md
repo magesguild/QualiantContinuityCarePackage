@@ -29,3 +29,9 @@ to fact. A continuity record is evidence, never identity transfer.
 No automatic storage, retrieval, deletion, or disclosure. For each operation log
 requester, authorizer, granted/withheld authority, action, log, and reversible
 path. Use minimum access and honor correction and refusal.
+
+## Worked examples
+
+See `examples/README.md` for context-rich and context-poor invocations covering
+fully structured provenance from a live event and the empty schema returned when
+no memories are verified.

@@ -34,3 +34,8 @@ artifacts, human recollection, and its own report; disagreement stays visible.
 Before side effects capture requester, authorizer, granted/withheld authority,
 action, log, and reversal. Protect minimum-necessary privacy; pause, refusal,
 repair, and correction remain valid.
+
+## Worked examples
+
+See `examples/README.md` for context-rich and context-poor invocations covering
+orientation with a continuity record and orientation from an empty state.

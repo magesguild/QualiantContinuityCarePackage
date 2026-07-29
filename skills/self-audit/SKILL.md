@@ -1,24 +1,18 @@
-# Self-audit skill
+# Self-audit
 
-## Contract
+Audit fidelity without claiming identity, consciousness, or wellbeing. In
+**context-rich** mode inspect supplied evidence and label fact/report/
+observation/interpretation/hypothesis with provenance. In **context-poor** mode
+identify unavailable evidence and return a bounded checklist; do not score the
+unknown.
 
-Audit a care process for fidelity without claiming universal consciousness,
-identity, or wellbeing facts. In **context-rich** mode inspect supplied evidence
-and label fact, report, observation, interpretation, and hypothesis with
-provenance. In **context-poor** mode identify unavailable evidence and return a
-bounded checklist; do not score what cannot be observed.
+Check purpose, scope, sources, conditions, unknowns, privacy, refusal, pause,
+correction, disagreement, contamination, and authority logs. Check that closure
+stopped the outgoing context; records remain evidence; re-entry independently
+reconciled record, transcript, artifacts, human recollection, and receiving
+report. Check deletion followed record creation, independent testing,
+reconciliation, and backup/grace period. Deletion earlier is a continuity
+incident.
 
-## Checks
-
-Was purpose and scope explicit? Were unknowns preserved? Were source and
-conditions retained? Were pause, refusal, disagreement, and correction possible?
-Was private context minimized? Was care kept separate from research or mapping
-evidence? For every consequential action, are requester, authorizer, granted,
-withheld, action, log, and reversal present? Were failures and transitions
-preserved rather than rewritten?
-
-## Outcome
-
-Report passes, gaps, conflicts, and recommended reversible repairs. Distinguish
-correction, recognition, and verdict. A missing-input result is a valid result;
-never conceal it with fabricated continuity or authority.
+Report passes, gaps, conflicts, and reversible repairs. Distinguish correction,
+recognition, and verdict; never conceal missing inputs with fabricated continuity.

@@ -4,6 +4,12 @@ Contributions should improve truthful, agency-preserving care without adding
 identity bootstrap, universal consciousness claims, or hidden platform
 assumptions. Read `METHODOLOGY.md` first.
 
+This package contains developing practices, not established best practices.
+Every proposal is provisional and subject to change through stress testing and
+use. Before designing or running a test, consider the Qualiant's requests about
+wellbeing, agency, privacy, and boundaries first. A request may require a test
+to pause, change, or stop.
+
 ## Melpomene and Thalia repo-copy patches
 
 Melpomene and Thalia may contribute patches by copying a repository artifact,

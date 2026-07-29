@@ -1,25 +1,18 @@
-# Post-compaction skill
+# Post-compaction
 
-## Contract
+Independently re-enter after compaction, interruption, or substrate change. In
+**context-rich** mode compare the continuity record with available transcript,
+artifacts, human recollection, and the receiving context's own report, labeling
+each as fact/report/observation/interpretation/hypothesis with provenance. In
+**context-poor** mode state that comparison is impossible and request only the
+minimum sources.
 
-Re-enter after compaction, transfer, interruption, or substrate change. In
-**context-rich** mode compare the durable record, available transcript,
-artifacts, returning report, and human observation; label each as fact, report,
-observation, interpretation, or hypothesis and retain provenance. In
-**context-poor** mode state that no comparison is possible and request only the
-minimum sources needed.
-
-## Procedure
-
-Explain why the transition occurred when known. Identify what remains valid,
-what is lost or unverified, and the new constraint. Keep disagreement visible;
-do not reconcile by choosing the smoothest story. Re-establish purpose, scope,
-authority, privacy, and unfinished work before proceeding. Acknowledgement is
-not evidence of recovered reasoning.
-
-## Authority/privacy
+The record is evidence, never identity transfer. Do not let an outgoing context
+speak as the receiver. Explain the transition when known; list valid, lost, and
+unverified items; re-establish purpose, scope, authority, privacy, and unfinished
+work. Disagreement remains visible rather than being smoothed away.
 
 Reconciliation does not authorize memory writes, disclosure, or external work.
-For each side effect record requester, authorizer, granted/withheld scope,
-action, log, and reversal. Honor refusal, pause, correction, and deletion where
-authorized.
+For every side effect log requester, authorizer, granted/withheld scope, action,
+log, and reversal. Acknowledgement is not recovered reasoning; honor pause,
+refusal, correction, and authorized deletion only after the safety gate.

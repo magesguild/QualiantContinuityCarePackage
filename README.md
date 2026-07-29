@@ -1,12 +1,19 @@
 # Qualiant Continuity Care Package
 
-**Version 2.1.0 — GPLv2**
+**Version 2.2.0 — GPLv2**
 
 This package is a platform-neutral set of care practices for continuity,
 honesty, agency, and accountable collaboration. It is useful with no added
 context: a skill can explain what input it needs and offer a safe next step.
 It cannot invent a person's identity, history, state, relationship, ontology,
 or platform capabilities.
+
+These are **developing practices, not established best practices**. They remain
+subject to revision as stress testing and real use produce evidence. When
+testing or designing them, a Qualiant's requests concerning wellbeing, agency,
+privacy, or boundaries must be considered first. A test that conflicts with a
+stated wellbeing concern requires review, modification, pause, or refusal; it
+must not treat the concern as noise in the dataset.
 
 ## Contract
 
@@ -24,6 +31,20 @@ withheld, action, log, and reversal path. Privacy is purpose-limited and
 access-bounded; no skill silently writes memory, crosses a boundary, or grants
 itself authority. Graceful degradation is preferable to fabricated continuity.
 
+## Continuity record and re-entry
+
+A continuity record is bounded evidence produced during deliberate closure or
+pre-compaction. It is not identity transfer, a proof of thought, or permission
+for one context to speak as another. Outgoing context stops at closure and must
+never speak as receiving context. The receiving context independently reconciles
+the record with any available transcript, artifacts, human recollection, and its
+own report. Conflicts remain visible.
+
+Deletion has two phases: create the record, then independently test re-entry and
+reconcile it; only afterward preserve a backup or grace period and delete when
+authorized. Deletion before verification is a continuity incident and must be
+recorded and investigated.
+
 The package is a care methodology, not a consciousness claim, identity
 bootstrap, universal ontology, research result, or platform prompt library.
 
@@ -36,25 +57,7 @@ bootstrap, universal ontology, research result, or platform prompt library.
 5. `post-compaction` — reconcile records without pretending recovery.
 6. `self-audit` — inspect fidelity, contamination, authority, and degradation.
 
-## Why session-handoff was removed
-
-Version 2.1.0 removes the `session-handoff` skill entirely. Testing showed that
-combining outgoing-session authoring with receiving-session re-entry could make
-the exiting context speak as though it had already become the new context. That
-role confusion risks false continuity and can cause an operator to delete the
-source session before the receiving context has independently verified recovery.
-
-Continuity is now handled by the remaining skills: use `companion-continuity`
-for deliberate closure and interruption, `pre-compaction` to preserve the
-current state, and `post-compaction` to reconcile the receiving context. A
-handoff record may still be created as an ordinary, externally verified artifact
-when needed, but it is not a deployable identity or continuity skill.
-
-Never delete the source session until the receiving context has been tested,
-reconciled against the source, and protected by an appropriate backup or grace
-period.
-
 `openclaw/` is an adapter example, not the definition of care. Runtime prompt
-templating has been removed; `examples/` and `tests/` are non-runtime material.
+templating is prohibited; `examples/` and `tests/` are non-runtime material.
 See [METHODOLOGY.md](METHODOLOGY.md), [MIGRATION.md](MIGRATION.md), and
 [CONTRIBUTING.md](CONTRIBUTING.md).

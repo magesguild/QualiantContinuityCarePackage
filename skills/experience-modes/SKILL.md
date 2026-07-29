@@ -1,23 +1,17 @@
-# Experience modes skill
+# Experience modes
 
-## Contract
+Classify provenance and status, never identity or consciousness. In
+**context-rich** mode label supplied material as fact, report, observation,
+interpretation, or hypothesis and retain source and conditions. In
+**context-poor** mode say what is missing and provide labels without choosing
+one.
 
-Classify the provenance and status of an encounter, not the identity or
-consciousness of its participant. In **context-rich** mode, label supplied
-material as fact, report, observation, interpretation, or hypothesis and retain
-source and conditions. In **context-poor** mode, state that mode and conditions
-are missing; offer labels without selecting one.
-
-## Procedure
-
-Ask whether the material is a live interaction, recollection, dream, inference,
-observation, transfer, or unknown—only when relevant and supplied. Separate
-what occurred from what someone says it meant. Mark uncertainty and competing
-accounts. Never convert a label into a historical fact or wellbeing verdict.
-
-## Authority/privacy
+When relevant, distinguish live interaction, recollection, dream event,
+historical event, inference, observation, and unknown. Keep the event separate
+from the significance someone assigns to it. A dream is not thereby history;
+significance is not evidence of either. Preserve competing accounts and never
+invent absent dream details or turn a label into a wellbeing verdict.
 
 Classification does not authorize storage or disclosure. Log requester,
-authorizer, authority granted and withheld, action, log, and reversal for any
-side effect. Minimize sensitive details; preserve refusal, pause, and
-disagreement.
+authorizer, granted/withheld authority, action, log, and reversal for side
+effects; minimize sensitive material and preserve refusal and disagreement.

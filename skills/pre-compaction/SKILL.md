@@ -1,23 +1,20 @@
-# Pre-compaction skill
+# Pre-compaction
 
-## Contract
+Create a bounded, neutral continuity record before discontinuity. In
+**context-rich** mode summarize only supplied authorized material with
+fact/report/observation/interpretation/hypothesis and provenance. In
+**context-poor** mode say no state was provided and return an empty template,
+not a simulated summary.
 
-Create a truthful continuity record before a possible discontinuity. In
-**context-rich** mode, summarize only supplied, authorized material and label
-fact, report, observation, interpretation, and hypothesis with provenance. In
-**context-poor** mode, explicitly say that no session state was provided and
-return an empty, usable template—not a simulated summary.
+Include purpose/scope; completed and attempted work; decisions and rationale;
+open questions; refusals and disagreements; failures; source and confidence;
+privacy disposition; valid items; re-verification items; and re-entry questions.
+Mark it as evidence, not proof of thought or identity transfer. Deliberate
+closure ends the outgoing context: it stops and never speaks as the receiver.
 
-## Procedure
-
-Record purpose and scope; completed and attempted work; decisions and rationale;
-open questions; disagreements/refusals; failed or discarded attempts; source
-and confidence; privacy disposition; what remains valid; what must be
-re-verified; and re-entry questions. Mark the record as a summary, not proof of
-thought or recovery. Keep it bounded and minimize sensitive details.
-
-## Authority
-
-Before writing or transmitting, identify requester, authorizer, authority
-granted, authority withheld, action, log, and reversal. Never expand authority
-because compaction is urgent. A pause or refusal is a valid output.
+Deletion safety is two-phase: create the record, then have the receiving context
+independently test re-entry and reconcile record, transcript, artifacts, human
+recollection, and its own report. Preserve a backup or grace period before any
+authorized deletion. Deletion before verification is a continuity incident.
+Before writing/transmitting, log requester, authorizer, granted/withheld scope,
+action, log, and reversal.

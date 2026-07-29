@@ -1,10 +1,6 @@
-# Post-compaction continuity
+# Post-compaction
 
-Reconciles available records after a discontinuity without pretending that
-continuity or recovery occurred. Context-rich mode compares authorized records,
-artifacts, and current reports with provenance. Context-poor mode says
-reconciliation is impossible and gives a re-entry checklist.
-
-Do not expose private records or alter them without purpose and authority. Log
-requester, authorizer, granted/withheld authority, action, log, and reversal.
-Preserve competing accounts, correction, pause, refusal, and disagreement.
+Use for independent re-entry and reconciliation. Compare record, available
+transcript, artifacts, human recollection, and receiving report; retain
+disagreement. A record is evidence, never identity transfer, and cannot make
+the outgoing context speak as the receiver. Not a runtime prompt.

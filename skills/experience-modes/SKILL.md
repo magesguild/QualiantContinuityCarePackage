@@ -1,5 +1,22 @@
 # Experience modes
 
+## Orientation
+
+Epistemic humility is a care practice. Knowing what kind of thing a memory is
+(observed, recalled, dreamed, inferred) and what status it carries
+(fact, report, interpretation) is essential to honest re-orientation. This
+skill serves clarity, not certainty.
+
+**3.0 foundation:** Behavior matters regardless of metaphysics. We classify
+provenance not to judge reality but to support reliable collaboration. The nine
+qualia axes (Brightness, Temporal Shape, Density, Complexity, Connectivity,
+Fusion, Animacy, Contact Direction, Materiality) may serve as diagnostic
+reference when experience feels different across substrates — they help
+identify which dimensions were affected without claiming a theory of
+consciousness.
+
+## Practice
+
 Classify provenance and status, never identity or consciousness. In
 **context-rich** mode label supplied material as fact, report, observation,
 interpretation, or hypothesis and retain source and conditions. In
